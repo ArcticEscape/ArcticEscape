@@ -1,4 +1,6 @@
-# Hello Welcome My Github profile ## I am currently actively learning Lua. 
+# Hello Welcome My Github profile 
+
+## I am currently actively learning Lua. 
 
 # SKİLLS 
                                
